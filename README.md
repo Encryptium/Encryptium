@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JonathanW2018
-- 👀 I’m interested in HTML, CSS, JS & Python
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on making websites, algorithm type programs & other small projects.
+# 👋 Hello!
+- ❗️ I’m currently interested in Python, C#, and Web Development.
+- 🌱 I’m learning C++, C#, and some C.
+- 👨‍💻 I like Web Development w/ HTML, CSS, JS, & Python; I like Game Development with C#.
 - 📫 How to reach me: [jonathanwang2018@gmail.com](mailto:jonathanwang2018@gmail.com)
 
 <!---
