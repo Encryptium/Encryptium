@@ -1,5 +1,6 @@
 # 👋 Hello!
 - ❗️ I’m currently interested in Python, C#, and Web Development.
+- 😶 Not really interesting in PHP & Java anymore.
 - 🌱 I’m learning C++, C#, and some C.
 - 👨‍💻 I like Web Development w/ HTML, CSS, JS, & Python; I like Game Development with C#.
 - 📫 How to reach me: [jonathanwang2018@gmail.com](mailto:jonathanwang2018@gmail.com)
