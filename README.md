@@ -1,9 +1,22 @@
-# 👋 Hello!
-- ❗️ I’m currently interested in Python, C#, and Web Development.
-- 😶 Not really interesting in PHP & Java anymore.
-- 🌱 I’m learning C++, C#, and some C.
-- 👨‍💻 I like Web Development w/ HTML, CSS, JS, & Python; I like Game Development with C#.
-- 📫 How to reach me: [jonathanwang2018@gmail.com](mailto:jonathanwang2018@gmail.com)
+```cpp
+#include <string>
+#include <vector>
+using namespace std;
+
+int main() {
+  vector<string> languages = {"HTML", "CSS", "JS", "Python"};
+  vector<string> frameworks = {"Flask"};
+
+  // Learning
+  languages.push("C++"); 
+  languages.push("C#");
+
+  frameworks.push("Django");
+  frameworks.push("Tailwind");
+
+  return 0;
+}
+```
 
 <!---
 jonathanwang2018/jonathanwang2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
