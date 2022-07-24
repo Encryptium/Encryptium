@@ -12,7 +12,7 @@ int main() {
 
   // Learning
   languages.push("C++"); 
-  languages.push("C#");
+  languages.push("C#/Unity");
 
   frameworks.push("Django");
   frameworks.push("Tailwind");
