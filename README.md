@@ -8,13 +8,12 @@ using namespace std;
 int main() {
   // Experienced
   vector<string> languages = {"HTML", "CSS", "JS", "Python"};
-  vector<string> frameworks = {"Flask"};
+  vector<string> frameworks = {"Flask", "Django"};
 
   // Learning
   languages.push("C++"); 
   languages.push("C#/Unity");
 
-  frameworks.push("Django");
   frameworks.push("Tailwind");
 
   return 0;
@@ -22,6 +21,6 @@ int main() {
 ```
 
 <!---
-jonathanwang2018/jonathanwang2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Encryptium/Encryptium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
