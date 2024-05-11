@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
   // Experienced
-  vector<string> languages = {"HTML", "CSS", "JS", "Python"};
+  vector<string> languages = {"HTML", "CSS", "JS", "Python", "Java"};
   vector<string> frameworks = {"Flask", "Django"};
 
   // Learning
